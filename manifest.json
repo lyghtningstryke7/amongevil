@@ -1,0 +1,13 @@
+{
+  "name": "Among Evil",
+  "short_name": "AmongEvil",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
